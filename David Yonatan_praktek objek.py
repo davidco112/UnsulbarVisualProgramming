@@ -21,3 +21,5 @@ eudora.att = '30'
 eudora.arm = '5'
 
 print(tigreal.__dict__)
+print(lesley.__dict__)
+print(eudora.__dict__)
